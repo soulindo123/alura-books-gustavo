@@ -1,3 +1,79 @@
-:root{
-    --cor-de-fundo:#EBECEE
-}
+cabeçalho-imagem{
+    width: 20%;    
+    }
+    
+    .cabeçalho-lista-item {
+    
+        display: inline-block;
+        margin: 0% 16px ;
+        font-size: 24px;
+    }
+    
+    .escoala-imagem{
+    width: 25%;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .escola-div-conteudo{
+        width: 25%;
+    }
+    
+    .escola-titulo{
+        padding: 24px 0;
+    }
+    
+    .estudante-imagem{
+        width: 120px;
+    }
+    
+    .estudante_icone{
+        width: 24px;
+    }
+    
+    .estudante-div{
+        text-align: center;
+    }
+    
+    .estudante-titulo{
+        text-align: center;
+        padding: 50px;
+    }
+    
+    .estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    }
+    
+    .rodape{
+        background-color: black;
+        text-align: center;
+    }
+    
+    .rodape-imgagem{
+        min-height: 60px;
+        padding: 12px 0;
+    }
